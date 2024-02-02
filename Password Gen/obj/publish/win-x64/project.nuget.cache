@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0wo8GXSawBqKKNssUBxirsZx9NsDp8yXph0pgJJBaIZ+L0l43Rd4bdOwPTJ1al1MZouzlw1KtwCUvwTAcyc0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlame\\source\\repos\\Password Gen\\Password Gen\\Password Gen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlame\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\jlame\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\jlame\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.15\\microsoft.netcore.app.runtime.win-x64.7.0.15.nupkg.sha512",
+    "C:\\Users\\jlame\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.15.nupkg.sha512",
+    "C:\\Users\\jlame\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.15\\microsoft.aspnetcore.app.runtime.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\jlame\Desktop\Password Gen.exe
+C:\Users\jlame\Desktop\Password Gen.dll
+C:\Users\jlame\Desktop\Password Gen.deps.json
+C:\Users\jlame\Desktop\Password Gen.runtimeconfig.json
+C:\Users\jlame\Desktop\Password Gen.pdb

@@ -1,0 +1,5 @@
+C:\Users\jlame\source\repos\Password Gen\Password Gen\bin\Release\net7.0\app.publish\Password Gen.exe
+C:\Users\jlame\source\repos\Password Gen\Password Gen\bin\Release\net7.0\app.publish\Password Gen.dll
+C:\Users\jlame\source\repos\Password Gen\Password Gen\bin\Release\net7.0\app.publish\Password Gen.deps.json
+C:\Users\jlame\source\repos\Password Gen\Password Gen\bin\Release\net7.0\app.publish\Password Gen.runtimeconfig.json
+C:\Users\jlame\source\repos\Password Gen\Password Gen\bin\Release\net7.0\app.publish\Password Gen.pdb
